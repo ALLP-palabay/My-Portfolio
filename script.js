@@ -1,6 +1,6 @@
 async function loadProfile() {
      try {
-         const res = await fetch('data/profile.json');
+         const res = await fetch('project.json');
          const data = await res.json();
          document.getElementById('student-name').textContent = data.name;
          document.getElementById('student-course').textContent = data.course;
