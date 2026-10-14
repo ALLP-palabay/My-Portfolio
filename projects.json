@@ -6,23 +6,20 @@
      "facebook": "https://facebook.com/allyssa.palabay.10",
      "github": "https://github.com/ALLP.palabay",
      "skills": [
-         "HTML",
          "CSS",
          "JavaScript",
-         "Problem Solving",
+         "Communication",
          "Teamwork",
-         "Communication"
+         "Problem Solving",
+         "Creativity",
+         "Time Management",
+         "Active Listening"
      ],
      "projects": [
          {
-             "title": "Project 1: My First Website",
-             "description": "Created a personal webpage using HTML and CSS to practice web development basics.",
-             "image": "images/project1.jpg"
-         },
-         {
-             "title": "Project 2: Simple Calculator",
-             "description": "Built a working calculator app using JavaScript for basic arithmetic operations.",
-             "image": "images/project1.jpg"
-         }
+         "title": "📝 Research Paper",
+         "description": "Conducted research, gathered data, and wrote a complete academic paper on a chosen topic.",
+         "image": "images/project1.jpg"
+     }
      ]
  }
