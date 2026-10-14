@@ -1,0 +1,28 @@
+{
+     "name": "Allyssa P. Palabay",
+     "course": "Bachelor of Scince in Information Technology",
+     "about": "I am a dedicated student passionate about learning and building creative projects. I enjoy developing skills in technology and design. This portfolio showcases my school achievements.",
+     "email": "prttyallyssa17@gmail.com",
+     "facebook": "https://facebook.com/allyssa.palabay.10",
+     "github": "https://github.com/ALLP.palabay",
+     "skills": [
+         "HTML",
+         "CSS",
+         "JavaScript",
+         "Problem Solving",
+         "Teamwork",
+         "Communication"
+     ],
+     "projects": [
+         {
+             "title": "Project 1: My First Website",
+             "description": "Created a personal webpage using HTML and CSS to practice web development basics.",
+             "image": "images/project1.jpg"
+         },
+         {
+             "title": "Project 2: Simple Calculator",
+             "description": "Built a working calculator app using JavaScript for basic arithmetic operations.",
+             "image": "images/project1.jpg"
+         }
+     ]
+ }
